@@ -506,7 +506,7 @@ hr {
   color: #fff;
   text-align: center;
   position: relative;
-  height: 400px;
+  height: 100px;
   transition: all 0.3s ease; }
 
 .profile-image {
@@ -697,7 +697,7 @@ hr {
   font-size: 11px; }
 
 body.post-template > .site-header {
-  height: 250px;
+  height: 100px;
   transition: all 0.3s ease; }
 
 body.post-template .site-header h2 .logo {
